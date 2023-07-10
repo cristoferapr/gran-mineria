@@ -1,0 +1,32 @@
+Pais:Chile /Region:Antofagasta /Nombre:Chuquicamata /Mineral:Cobre /Personal:6200 /Produccion:5000
+Pais:Chile /Region:Atacama /Nombre:Potrerillos /Mineral:Cobre /Personal:5500 /Produccion:6000
+Pais:Chile /Region:Arica y Parinacota /Nombre:Choquelimpie /Mineral:Oro /Personal:5000 /Produccion:70000
+Pais:Chile /Region:Coquimbo /Nombre:Dominga /Mineral:Hierro /Personal:5200 /Produccion:24356
+Pais:Chile /Region:Bio Bio /Nombre:San Miguel /Mineral:Arena Sila­cea /Personal:4800 /Produccion:50555
+Pais:Chile /Region:Arica y parinacota /Nombre:Choquelimpie /Mineral:Oro /Personal:6000 /Produccion:6434
+Pais:Chile /Region:Arica y parinacota /Nombre:Pampa Camarones /Mineral:Cobre /Personal:4000 /Produccion:8434
+Pais:Chile /Region:Tarapaca /Nombre:Celite /Mineral:Diatomitas /Personal:6100 /Produccion:3245
+Pais:Chile /Region:Tarapaca /Nombre:Cosayach-Soledad /Mineral:Yodo /Personal:5800 /Produccion:7326
+Pais:Chile /Region:Tarapaca /Nombre:Collahuasi /Mineral:Cobre /Personal:5500 /Produccion:1232
+Pais:Chile /Region:Tarapaca /Nombre:Ministro Hales /Mineral:Cobre /Personal:4900 /Produccion:2533
+Pais:Chile /Region:Tarapaca /Nombre:SQM-Maria Elena /Mineral:Nitratos /Personal:5923 /Produccion:5342
+Pais:Mexico /Region:Ensenada /Nombre:Metales el Rosario /Mineral:Marmol /Personal:4765 /Produccion:2342
+Pais:Mexico /Region:Moctezuma /Nombre:La Perla /Mineral:Silice /Personal:7364 /Produccion:5243
+Pais:Mexico /Region:Sahuaripa /Nombre:Minera Mar de Plata /Mineral:Oro /Personal:8390 /Produccion:2424
+Pais:Mexico /Region:Rosario /Nombre:Minera Rio Tinto /Mineral:Cobre /Personal:5098 /Produccion:7254
+Pais:Mexico /Region:Jimenez /Nombre:Minera Raramuri /Mineral:Caolin /Personal:5120 /Produccion:6421
+Pais:Mexico /Region:Cerralvo /Nombre:Matrimar /Mineral:Arena y Grava /Personal:6723 /Produccion:4223
+Pais:Mexico /Region:Mazapil /Nombre:La Conchita /Mineral:Hierro /Personal:4598 /Produccion:1428
+Pais:Mexico /Region:Villa de Cos /Nombre:Marmoles Velasco /Mineral:Marmol /Personal:6587 /Produccion:5643
+Pais:Mexico /Region:Iztapalapa /Nombre:La Estancia /Mineral:Arena y Grava /Personal:9801 /Produccion:6539
+Pais:Mexico /Region:Nicolas Romero /Nombre:Arenera la Fe /Mineral:Arena y Grava /Personal:3987 /Produccion:7435
+Pais:Mexico /Region:Piaxtla /Nombre:Salinera Zizimimitlan /Mineral:Sal /Personal:4040 /Produccion:6342
+Pais:Mexico /Region:Copala /Nombre:Virgen de Jesus Gomez /Mineral:Sal /Personal:5060 /Produccion:2313
+Pais:Mexico /Region:Peto /Nombre:Cocopesa /Mineral:Piedra Caliza /Personal:6798 /Produccion:4256
+Pais:Estados Unidos /Region:Utah /Nombre:Mina del canon de Bingham /Mineral:Cobre /Personal:10596 /Produccion:60000
+Pais:Estados Unidos /Region:Utah /Nombre:Mina Crandall Canyon /Mineral:Carbon /Personal:9974 /Produccion:40000
+Pais:Estados Unidos /Region:Nuevo Mexico /Nombre:Mina de Santa Rita /Mineral:Cobre /Personal:9302 /Produccion:50000
+Pais:Estados Unidos /Region:Arizona /Nombre:Mina Lavender /Mineral:Cobre /Personal:9547 /Produccion:80000
+Pais:Estados Unidos /Region:Arizona /Nombre:Mina Vulture /Mineral:Oro /Personal:9347 /Produccion:40000
+Pais:Peru /Region:Ancash /Nombre:Antamina /Mineral:Plata /Personal:7029 /Produccion:60000
+Pais:Australia /Region:Queensland /Nombre:Mina Cannington /Mineral:Plata /Personal:10598 /Produccion:80000
